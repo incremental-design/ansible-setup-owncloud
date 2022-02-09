@@ -1,3 +1,5 @@
+This repository has been archived. It has been moved to the [`incremental.design/dev-boxes`](https://github.com/incremental-design/dev-boxes/tree/ajay-dev/packages/ansible-setup-owncloud) monorepo.
+
 # Install OwnCloud on Rancher
 
 This project automates the installation of owncloud on a rancherOS
